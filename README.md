@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DMATS, Japanese Physics addictor living in Kansai Distcit. 仲良くしてね
-- 👀 I’m interested in Physics.
+- 👋 Hi, I’m @DMATS, Japanese physics addictor living in Kansai Distcit. 仲良くしてね
+- 👀 I’m interested in the physics.
 - 🌱 I’m currently learning C and Physics, sometimes Français a l'unviersite de Kobe.
 
 <!---
